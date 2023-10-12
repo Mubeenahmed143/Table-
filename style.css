@@ -1,0 +1,27 @@
+/* #xsl{
+    height: 40px;
+    align-items: center;
+}
+#pm{
+    height: 5px;
+}
+#am{
+    height: 5px;
+} */
+
+
+#path{
+    text-align: center;
+    height: 20px;
+}
+#int{
+    text-align: center;
+}
+#xsl{
+    text-align: center;
+    height: 20px;
+    width: auto;
+}
+#fo{
+    text-align: center;
+}
